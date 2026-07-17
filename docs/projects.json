@@ -2,7 +2,7 @@
     {
         "name": "MCU Datalogger",
         "description": "A 2-Layer PCB for Atmega328P Microcontroller logging data to an external 1024K I2C CMOS Serial EEPROM",
-        "imagePath": "Projects/Tiny_Solar_Power_Supply/PCB_Image/PCB.png",
+        "imagePath": "Projects/MCU_Datalogger_2_Layer/PCB_Image/PCB.png",
         "iomPath": "Projects/Tiny_Solar_Power_Supply/IBOM/ibom.html"
     },
     {
